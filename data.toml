@@ -1,32 +1,29 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Ping!"
+description = "The student-run magazine of IIIT"
+keywords = ""
+image = "ping-logo.png"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = ""
+base_url = "https://links.pingiiit.org"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Articles"
+description = "Here are some of our latest articles!"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+title = "Mama, Put My GPTs in the Ground"
+url = "https://pingiiit.org/2025/05/mama-put-my-gpts-in-the-ground/"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Have you tried turning the mess off and on again?"
+description = "Why exactly do we have a new mess system? The answer is simple. A frog."
+url = "https://pingiiit.org/2025/04/have-you-tried-turning-the-mess-off-and-on-again/"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "Log Kya Kahenge?"
+description = "Imposter Syndrome (/ɪmˈpɒstər ˈsɪn.drəʊm/) – The persistent inability to believe that one’s success is deserved or has been legitimately achieved as a result of one’s efforts or skills."
+url = "https://pingiiit.org/2025/04/log-kya-kahenge/"
 
 
 [[sections]]
@@ -38,16 +35,7 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "https://www.instagram.com/pingiiit"
+[[section.items]]
+title = "Website"
+url = "https://www.pingiiit.org"
