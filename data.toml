@@ -1,12 +1,12 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Ping!"
+description = "The student-run magazine of IIIT"
+keywords = ""
+image = "ping-logo.png"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = ""
+base_url = "https://links.pingiiit.org"
 
 [[sections]]
 title = "Movies"
