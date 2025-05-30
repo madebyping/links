@@ -36,6 +36,6 @@ icon_size = "30px"
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
 url = "https://www.instagram.com/pingiiit"
-[[section.items]]
+[[sections.items]]
 title = "Website"
 url = "https://www.pingiiit.org"
