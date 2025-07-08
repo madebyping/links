@@ -14,25 +14,24 @@ direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "UGEE: Thinking? In this economy?"
+description = "In a system wired for ranks and rote, UGEE dares to test something rare — actual thinking."
 url = "https://pingiiit.org/2025/07/ugee-thinking-in-this-economy/"
 [[sections.items]]
 title = "Bro, Remember First Year?"
+description = "From JC walks to ghosted group chats — a reflection on friendships and how they change."
 url = "https://pingiiit.org/2025/06/bro-remember-first-year/"
 [[sections.items]]
 title = "The number 4 is blue: Musings of an autistic student"
+description = "On Autism Pride Day, one writer reflects on identity, dignity, and what neurodivergence feels like."
 url = "https://pingiiit.org/2025/06/the-number-4-is-blue-musings-of-an-autistic-student/"
 [[sections.items]]
-title = "Mama, Put My GPTs in the Ground"
-url = "https://pingiiit.org/2025/05/mama-put-my-gpts-in-the-ground/"
+title = "What does ‘Ee Sala Cup Namdu’ mean for RCB fans?"
+description = "RCB’s win shook the city — but for long-time fans, it meant something a little deeper."
+url = "https://pingiiit.org/2025/06/what-does-ee-sala-cup-namdu-mean-for-rcb-fans/"
 [[sections.items]]
-title = "Have you tried turning the mess off and on again?"
-description = "Why exactly do we have a new mess system? The answer is simple. A frog."
-url = "https://pingiiit.org/2025/04/have-you-tried-turning-the-mess-off-and-on-again/"
-[[sections.items]]
-title = "Log Kya Kahenge?"
-description = "Imposter Syndrome (/ɪmˈpɒstər ˈsɪn.drəʊm/) – The persistent inability to believe that one’s success is deserved or has been legitimately achieved as a result of one’s efforts or skills."
-url = "https://pingiiit.org/2025/04/log-kya-kahenge/"
-
+title = "Felicity: The Price of the Party"
+description = "Behind the lights, crowds and music is the unseen cost of the fest we love to flaunt."
+url = "https://pingiiit.org/2025/06/felicity-the-price-of-the-party/"
 
 [[sections]]
 title = "Links"
