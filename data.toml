@@ -13,6 +13,9 @@ description = "Here are some of our latest articles!"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
+title = "UGEE: Thinking? In this economy?"
+url = "https://pingiiit.org/2025/07/ugee-thinking-in-this-economy/"
+[[sections.items]]
 title = "Mama, Put My GPTs in the Ground"
 url = "https://pingiiit.org/2025/05/mama-put-my-gpts-in-the-ground/"
 [[sections.items]]
