@@ -13,25 +13,45 @@ description = "Here are some of our latest articles!"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "UGEE: Thinking? In this economy?"
-description = "In a system wired for ranks and rote, UGEE dares to test something rare — actual thinking."
-url = "https://pingiiit.org/2025/07/ugee-thinking-in-this-economy/"
+title = "The Lazy Third Eye: 2024-25 Annual Report edition"
+description = "Ping’s annual roundup — a year in review, seen through our laziest but sharpest eye."
+url = "https://pingiiit.org/2025/09/the-lazy-third-eye-2024-25-annual-report-edition/"
+
 [[sections.items]]
-title = "Bro, Remember First Year?"
-description = "From JC walks to ghosted group chats — a reflection on friendships and how they change."
-url = "https://pingiiit.org/2025/06/bro-remember-first-year/"
+title = "The Lazy Third Eye: Reclaiming Student Democracy"
+description = "On student politics, lost voices, and what it means to reclaim space on campus."
+url = "https://pingiiit.org/2025/09/the-lazy-third-eye-reclaiming-student-democracy/"
+
 [[sections.items]]
-title = "The number 4 is blue: Musings of an autistic student"
-description = "On Autism Pride Day, one writer reflects on identity, dignity, and what neurodivergence feels like."
-url = "https://pingiiit.org/2025/06/the-number-4-is-blue-musings-of-an-autistic-student/"
+title = "Wise Wendy 💅🏻"
+description = "Agony aunt? Self-help guru? Wendy serves wisdom with sass and sparkles."
+url = "https://pingiiit.org/2025/09/wise-wendy-3/"
+
 [[sections.items]]
-title = "What does ‘Ee Sala Cup Namdu’ mean for RCB fans?"
-description = "RCB’s win shook the city — but for long-time fans, it meant something a little deeper."
-url = "https://pingiiit.org/2025/06/what-does-ee-sala-cup-namdu-mean-for-rcb-fans/"
+title = "A conversation with SubtasksWhere"
+description = "An exclusive chat with the satirical Instagram page that became IIIT-H’s inside joke."
+url = "https://pingiiit.org/2025/09/subtaskswhere/"
+
 [[sections.items]]
-title = "Felicity: The Price of the Party"
-description = "Behind the lights, crowds and music is the unseen cost of the fest we love to flaunt."
-url = "https://pingiiit.org/2025/06/felicity-the-price-of-the-party/"
+title = "Semiconductors and soft power"
+description = "From silicon chips to geopolitics — a look at how semiconductors shape global power."
+url = "https://pingiiit.org/2025/08/semiconductors-and-soft-power/"
+
+[[sections.items]]
+title = "Dogfather"
+description = "A campus canine with charm, chaos, and maybe a little too much power."
+url = "https://pingiiit.org/2025/07/dogfather/"
+
+[[sections.items]]
+title = "IIITH: an idiot’s perspective"
+description = "IIIT through the eyes of a self-proclaimed ‘idiot’ — raw, honest, and a little too real."
+url = "https://pingiiit.org/2025/07/iiith-an-idiots-perspective/"
+
+[[sections.items]]
+title = "Beyond The Rainbow: A Look At Pride and Hyderabad"
+description = "Tracing queer joy, struggle, and community at Pride in the heart of Hyderabad."
+url = "https://pingiiit.org/2025/07/beyond-the-rainbow-a-look-at-pride-and-hyderabad/"
+
 
 [[sections]]
 title = "Links"
