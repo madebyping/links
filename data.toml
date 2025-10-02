@@ -12,6 +12,7 @@ title = "Articles"
 description = "Here are some of our latest articles!"
 direction = "column"
 item_style = "outline"
+
 [[sections.items]]
 title = "The Lazy Third Eye: 2024-25 Annual Report edition"
 description = "Dissecting the Student Parliament’s annual report — what worked, what flopped, and what it all means."
@@ -29,7 +30,7 @@ url = "https://pingiiit.org/2025/09/wise-wendy-3/"
 
 [[sections.items]]
 title = "A conversation with SubtasksWhere"
-description = "An exclusive chat with the satirical Instagram page that became IIIT-H’s inside joke."
+description = "Behind the monitors: a candid conversation with the IIITH team repping India at the ICPC World Finals."
 url = "https://pingiiit.org/2025/09/subtaskswhere/"
 
 [[sections.items]]
